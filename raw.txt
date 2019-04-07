@@ -1,1 +1,6 @@
 As Ward Cunningham once put it, "Clean code is when you look at a routine and it's pretty much what you expected."
+
+
+cognitive biases
+- confirmation bias
+- Dunning-Kruger effect (confident juniors hasitant Experts because they know more, have seen more)
